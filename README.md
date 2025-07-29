@@ -1,6 +1,3 @@
-# Walmart-Sales-Analysis-SQL
-Exploratory and advanced analysis on Walmart sales data using SQL Server
-
 # Walmart Sales Analysis using SQL
 
 This project focuses on performing exploratory, descriptive, and advanced analysis of Walmart's sales data using SQL Server.
